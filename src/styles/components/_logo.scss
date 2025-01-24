@@ -1,0 +1,23 @@
+.logo {
+    @include verticalCenter;
+    margin: 10px auto;
+    // margin: 10px auto;
+    
+    // width: 1500px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 100px 0;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.307);
+    background: url(../../assets/img/Vintage_Text_Effect_7-DaddiesCook-2-sansback6.png) bottom fixed  ;
+    // background-position-y: bottom;
+    
+  
+    // img {
+    //   height: 300px;
+    // }
+    // h3 {
+    //   margin-left: 10px;
+    //   color: $color-1;
+    // }
+  }
+  
